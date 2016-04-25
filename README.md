@@ -16,7 +16,7 @@ move.js 是一个超轻量的js动画库, 它会返回一个move对象并被 ```
 	wave 		--- 断断续续加速减速
 	opposite 	--- 先向反方向移动一小段距离, 然后正方向移动, 并超过终点一小段, 然后回到终点
 
-<img src="img/curve.jpg" style="max-width: 350px;">
+![curve](img/curve.jpg)
 
 =====
 ####用法和说明:
